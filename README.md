@@ -6,7 +6,7 @@ Para buscar el lugar adecuado para las nuevas oficinas de nuestra empresa tenemo
   
     -Starbucks cercanos a las oficinas
   
-    -Restaurantes veganos 
+    -Restaurantes veganos en el entorno
   
 Se decide que el empazamiento estará en la ciudad de Zúrich, donde encontramos los tres requisitos. (Se puede ver en el archivo 'Cartoframes.ipynb'
 
